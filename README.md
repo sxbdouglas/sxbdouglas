@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sxbdouglas
 - 👀 I’m interested in Databases, Data Analysis, Cloud Tecnology, Big Data Tecnology.
-- 🌱 I’m currently learning always new stuff and always I have free time to spend learn new features and new tecnologies.
-- 💞️ I’m looking to collaborate on other people needs.
+- 🌱 I’m currently learning everything that I can about data/cloud, always I have free time, of course.
+- 💞️ I’m looking to collaborate on other peoples need.
 - 📫 How to reach me https://www.linkedin.com/in/douglas-c-744409224/
 
 <!---
